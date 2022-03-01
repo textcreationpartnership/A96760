@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition, and narrative of Geo. Wither Esq; concerning his many grievances and long sufferings; with a preceding addresse made to the Honourable Members of Parliament in their single capacities, to incline them to a speedy consideration of his case in Parliament. Hodie nobis, cras vobis.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96760</idno>
+            <idno type="STC">Wing W3178</idno>
+            <idno type="STC">Thomason E761_12</idno>
+            <idno type="STC">ESTC R207082</idno>
+            <idno type="EEBO-CITATION">99866154</idno>
+            <idno type="PROQUEST">99866154</idno>
+            <idno type="VID">118418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118418)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 117:E761[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition, and narrative of Geo. Wither Esq; concerning his many grievances and long sufferings; with a preceding addresse made to the Honourable Members of Parliament in their single capacities, to incline them to a speedy consideration of his case in Parliament. Hodie nobis, cras vobis.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Partly in verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:118418:1" rendition="simple:additions"/>
+            <head>The <hi>Petition,</hi> and <hi>Narrative</hi> of <hi>Geo. Wither</hi> Eſq; concerning his many grie<g ref="char:EOLhyphen"/>vances and long ſufferings; with a Preceding Addreſſe made to the Honourable Members of Parliament in their ſingle Capacities, to in<g ref="char:EOLhyphen"/>cline them to a ſpeedy conſideration of his Caſe in Parliament.</head>
+            <head type="sub">Hodie Nobis, Cras Vobis.</head>
+            <lg>
+               <l>WE are not <hi>few</hi> that ſuffer; and that may</l>
+               <l>To <hi>morrow,</hi> be your <hi>Caſe,</hi> that's our to day</l>
+               <l>(As now the <hi>Cards</hi> are <hi>ſhuffl'd, Cut,</hi> and lay'd,</l>
+               <l>And, as the <hi>Game</hi> ſhall <hi>well,</hi> or <hi>ill</hi> be plaid.)</l>
+               <l>Give <hi>Looſers</hi> leave to ſpeak, and, <hi>me</hi> for one,</l>
+               <l>Who make at this time my <hi>Addreſſe</hi> alone,</l>
+               <l>Without your doors, within which, I, as yet</l>
+               <l>Can, for my <hi>Prayers,</hi> no admittance get.</l>
+            </lg>
+            <lg>
+               <l>Of <hi>ſeven times ten,</hi> to ſpend years <hi>ten and ſeven</hi>
+               </l>
+               <l>In asking for <hi>mine own,</hi> I have been driven,</l>
+               <l>And no reſult obtained, but, inſtead</l>
+               <l>Of Fiſh, a Scorpion, and hard <hi>Stones</hi> for <hi>Bread,</hi>
+               </l>
+               <l>Which fill'd me full of thoughts, that getting vent</l>
+               <l>Orecharge the <hi>Papers,</hi> which I would preſent.</l>
+               <l>Yet, muſe not, if my <hi>Narrative</hi> it ſtrain</l>
+               <l>To an unuſual length, and ſhall ſpeak plain:</l>
+               <l>
+                  <hi>Wide wounds,</hi> muſt have <hi>large Plaſters;</hi> When a wrong</l>
+               <l>Laſts many years, Bills of <hi>Complaint,</hi> are long,</l>
+               <l>And, <hi>ſharp words,</hi> may from him, be born withall,</l>
+               <l>Whoſe Drink and Food are <hi>Vineger</hi> and <hi>Gall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I, have but one <hi>Life,</hi> and that's almoſt ſpent;</l>
+               <l>Let me not wait a time equivalent</l>
+               <l>To <hi>three mens lives,</hi> or till the Cure I crave</l>
+               <l>Comes, Phyſick-like, to him that's in his <hi>grave.</hi>
+               </l>
+               <l>Nor let, by you, my <hi>Reaſon,</hi> at this time</l>
+               <l>Deſpiſed be, although you ſleight my <hi>Rime;</hi>
+               </l>
+               <l>For, who ere ſleights a <hi>ſuffrer</hi> in his ſorrow,</l>
+               <l>Mine, or a worſe, may be his <hi>Caſe</hi> to morrow,</l>
+               <l>Or, ere the <hi>ſtorms,</hi> now threatn'd, are paſt thorow.</l>
+            </lg>
+            <lg>
+               <l>I uſe not to make friends; for I ſuppoſe</l>
+               <l>In <hi>Parliament,</hi> men have nor <hi>friends</hi> nor foes,</l>
+               <l>But as the Caſe deſerves; at leaſt, I know</l>
+               <l>That if it be not thus, it ſhould be ſo;</l>
+               <l>And, wiſh he may with <hi>ſhame</hi> requited be,</l>
+               <l>Who wilfully wrongs <hi>others,</hi> though for me.</l>
+            </lg>
+            <lg>
+               <l>All, which <hi>within your doors,</hi> Ile ask of you</l>
+               <l>Is no more, then I freely would allow</l>
+               <l>Ev'n to my greateſt <hi>foe,</hi> and be afraid</l>
+               <l>Of what might follow, if it were delaid.</l>
+               <l>All my <hi>Requeſts,</hi> without your doors have been</l>
+               <l>But that ſome one of you would carry in</l>
+               <l>My ſad <hi>Petitions;</hi> which I did in vain</l>
+               <l>Intreat for, whileſt four <hi>Parliaments</hi> did raign;</l>
+               <l>For, evermore, the <hi>Commonwealths Affairs,</hi>
+               </l>
+               <l>Or, <hi>private mens</hi> more acceptable <hi>pray'rs</hi>
+               </l>
+               <l>Kept my Petitions out, though I attended</l>
+               <l>From their firſt <hi>ſittings,</hi> till five <hi>Seſſions</hi> ended.</l>
+               <l>Though, many ſeem'd <hi>me,</hi> and my <hi>Cauſe</hi> to own</l>
+               <l>With good reſpect, and few men are more known.</l>
+            </lg>
+            <lg>
+               <l>Some ſtill, pretended to be pre-ingag'd</l>
+               <l>To others: ſome, againſt me were inrag'd</l>
+               <l>For <hi>perſonal reſpects:</hi> ſome did profeſſe</l>
+               <l>They fear'd their own <hi>Inacceptableneſſe</hi>
+               </l>
+               <l>Might wrong my <hi>Cauſe:</hi> ſome, never were at leaſure</l>
+               <l>To do for any <hi>honeſt man,</hi> a pleaſure.</l>
+               <l>Some, very often, promis'd fair, and much;</l>
+               <l>But, their, or my ill hap, was ever ſuch</l>
+               <l>That, ſome croſſe intervening accident,</l>
+               <l>My hopes, and their performance did prevent:</l>
+               <l>And, <hi>one</hi> (as if I had been of a <hi>Nation</hi>
+               </l>
+               <l>Without your <hi>Pale</hi>) ſaid, he knew no <hi>Relation</hi>
+               </l>
+               <l>'Twixt him and me, obliging him unto</l>
+               <l>That favour I requeſted him to do:</l>
+               <l>Which <hi>anſwer,</hi> I, the leſſe was pleas'd withal,</l>
+               <l>Becauſe, he is a <hi>Major General;</hi>
+               </l>
+               <l>And, one of thoſe, who (being raiſed, by</l>
+               <l>Pretending to the <hi>Common-liberty,</hi>)</l>
+               <l>Seem'd bound to have performed what I ſought</l>
+               <l>In <hi>Courteſie,</hi> or <hi>Conſcience,</hi> as I thought.</l>
+               <l>But, I, ſuch <hi>ſleightings</hi> very often ſmother,</l>
+               <l>And make good uſe of them, <hi>one time, or other.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This favour, I, yet want: This to obtain</l>
+               <l>By an <hi>Expedient,</hi> (once tride, not in vain)</l>
+               <l>I, once more now aſſay: For, though I hear</l>
+               <l>My <hi>Foes,</hi> do both my <hi>Rimes</hi> and <hi>Reaſons</hi> jeer,</l>
+               <l>(And, that they are but laugh'd at, make their boast)</l>
+               <l>They have not gain'd <hi>their ends,</hi> nor are <hi>mine loſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>By theſe <hi>Outbreathings,</hi> I, refreſh my heart;</l>
+               <l>They pleaſe <hi>my friends; ſad muſings,</hi> they divert;</l>
+               <l>They will commemorate my <hi>honeſt Cauſe</hi>
+               </l>
+               <l>When all their <hi>grinning teeth,</hi> rot from their jaws:</l>
+               <l>And, I, at them, who my <hi>deriders</hi> be</l>
+               <l>
+                  <hi>Laugh,</hi> with as much <hi>ſcorn</hi> as they laugh at me,</l>
+               <l>Becauſe, I know, their <hi>hearts,</hi> in ſecret, fear</l>
+               <l>Th' Events of <hi>that,</hi> whereat their <hi>Tongues</hi> do jeer;</l>
+               <l>And, that, at length, <hi>Time</hi> will a means provide,</l>
+               <l>Both to befool their <hi>wits,</hi> and ſhame their <hi>pride</hi>
+               </l>
+               <l>By things which they contemn. I'll therefore try</l>
+               <l>How, <hi>Charmes</hi> of my deſpiſed <hi>Poetry</hi>
+               </l>
+               <l>Will work on you; with hope, that they ſhall finde</l>
+               <l>Such acceptation, in the generous minde</l>
+               <l>Of ſome <hi>Heroick perſons,</hi> that I may</l>
+               <l>Acquire, what I have fail'd of to this day,</l>
+               <l>By having my <hi>Oppreſſions,</hi> and <hi>Afflictions</hi>
+               </l>
+               <l>(Which are without <hi>Hyperbolies,</hi> or <hi>Fictions</hi>
+               </l>
+               <l>To you declar'd) there, ſpeedily now read</l>
+               <l>Where, they ſhall juſtly be determined.</l>
+            </lg>
+            <lg>
+               <l>For, now the time is come, in which I, either</l>
+               <l>Muſt be repair'd, or ruin'd altogether,</l>
+               <l>If <hi>he,</hi> from whom, <hi>Repairs</hi> I, oft have got</l>
+               <l>(When I was nigh deſtroy'd) repaire me not.</l>
+            </lg>
+            <lg>
+               <l>Grant me, but that, which you would ask to have,</l>
+               <l>Were my <hi>Caſe,</hi> your; And I, no more will crave.</l>
+            </lg>
+            <closer>
+               <signed>Your ſervant, <hi>Geo. Wither.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118418:2"/>
+            <head>To the Right Honourable, the Knights, Citizens and Bur<g ref="char:EOLhyphen"/>geſſes in Parliament Aſſembled.</head>
+            <head type="sub">The humble Petition of <hi>George Wither,</hi> Eſq;</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſaid <hi>Petitioner</hi> hath ſuffered ſo much and ſo long, by truſting to the <hi>Publick faith</hi> of this <hi>Nation,</hi> and their <hi>Securities</hi> given by Act of <hi>Parliament,</hi> that it hath much impaired his <hi>Eſtate</hi> and <hi>Credit,</hi> and ſo multiplied his troubles and grievances per<g ref="char:EOLhyphen"/>tinent to your <hi>Cognizance</hi> in order to his <hi>Relief,</hi> that, he dares not offer them in this <hi>Petition,</hi> leſt it prove ſo large, that at firſt view it may infringe your patience. Therefore, he is conſtrained to make way by this <hi>Previous Addreſs,</hi> adjoyning thereto an humble <hi>Narrative</hi> of ſome part of his ſad ſufferings, with a <hi>Series</hi> of his <hi>Cauſe,</hi> as briefly Epitomized as above 16 years <hi>Oppreſſions</hi> would permit; which <hi>Narrative</hi> he prays your Honours (as you deſire GOD ſhould be propitious to you, and thoſe whom you repreſent) to take into ſpeedy conſideration, leſt <hi>Redreſs</hi> either come too late, or may coſt twice ſo much as will relieve him at this preſent: For, it will be no <hi>Injuſtice</hi> to take Cognizance of thoſe <hi>Cauſes</hi> out of <hi>Courſe,</hi> that will elſe be<g ref="char:EOLhyphen"/>come remedileſſe, or ſo hazardous by delay, as this <hi>Petitioners</hi> will be if deferred, whom perhaps, GOD hath permitted to be ſo incumbred and inſnared, as well for ſome ends relating to the <hi>Publick,</hi> or to his own <hi>Glory,</hi> as for the ſaid <hi>Petitioners</hi> correction</p>
+            <p>
+               <hi>Juſtice</hi> and <hi>Mercy</hi> are the chief ſupports and <hi>Ornaments</hi> of <hi>Kingdoms</hi> and <hi>Republicks;</hi> and the great <hi>Body,</hi> which your Honours repreſent, conſiſts of <hi>Individuals,</hi> whoſe preſervation being neglected <hi>One</hi> by <hi>One,</hi> the <hi>Whole</hi> will be at laſt conſumed. Otherwhiles alſo <hi>Juſtice</hi> neglected, or <hi>Injuſtice</hi> done to <hi>private men,</hi> occaſions <hi>Plagues</hi> to be inflicted on <hi>States</hi> and <hi>Publick</hi> perſons; and it may be it hath ſo ſucceeded within our knowledge: For the five laſt <hi>Parliaments</hi> did ſhut private Complaints ſo long out of this <hi>Houſe,</hi> to the remedileſſe deſtruction of many, that thoſe <hi>Parliaments</hi> were at laſt ſhut out of it, and deſtroyed. Peradventure likewiſe, that GOD, who alone can make men to be of <hi>One minde in a Houſe,</hi> will not re<g ref="char:EOLhyphen"/>pair our breaches, untill failings be expiated by more acceptable oblations then ſuch cheap and eaſie <hi>Sacrifices,</hi> as <hi>formal faſtings:</hi> Even by ſome ſignal Acts of <hi>Justice</hi> and <hi>Mercy,</hi> ſeaſonably, and impartial<g ref="char:EOLhyphen"/>ly performed for relief of perſons extreamly and notoriouſly oppreſſed; among whom, if there be any whoſe preſent condition deſerves more compaſſion then this <hi>Petitioners,</hi> he is contented they ſhould be firſt relieved.</p>
+            <p>Your <hi>Honours</hi> will not wholly looſe your time, or labour, in hearing the annexed <hi>Narrative,</hi> or the proofs of the <hi>Petitioners Allegations</hi> which he ſhall produce: For, his ſufferings being well weighed with the advantages which he hath had in ſeveral reſpects, more then many other oppreſſed men to vindicate his <hi>Cauſe,</hi> and that he hath notwithſtanding been hitherto without relief; your <hi>Wiſdoms</hi> may thereby ob<g ref="char:EOLhyphen"/>ſerve, the ſad conſtitution of theſe times, and conjecture the miſerable condition whereto many thou<g ref="char:EOLhyphen"/>ſands of the faithfull ſervants of this <hi>Commonwealth</hi> have been expoſed, who had leſſe means to make known their <hi>Oppreſſions;</hi> and thence alſo may collect what is likely to be the ſequel.</p>
+            <p>Therefore, he again beſeecheth your <hi>Honours</hi> (notwithſtanding the length thereof) to take the ſaid <hi>Narrative</hi> into ſpeedy conſideration, and to grant the ſeveral Requeſts thereto ſubjoyned, as in <hi>Juſtice, Equity,</hi> or <hi>Compaſſion</hi> you ſhall finde cauſe; that GOD, who ſheweth <hi>Mercie</hi> to the <hi>Mercifull,</hi> may free you from your <hi>Incumbrances,</hi> and ſo <hi>proſper</hi> your <hi>conſultations,</hi> that all future <hi>Generations</hi> may call you BLESSED; to which end this <hi>Petitioner</hi> will continue his prayers.</p>
+            <closer>
+               <signed>Geo. Wither.</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <pb facs="tcp:118418:2"/>
+            <head>The <hi>Narrative,</hi> and <hi>Series</hi> of the <hi>Grievances,</hi> offered by the forenamed Petitioner, in relation to the preceding <hi>Petition;</hi> with his humble Re<g ref="char:EOLhyphen"/>queſts thereunto ſubjoyned.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſaid <hi>Petitioner</hi> (who hath in his <hi>place,</hi> according to his <hi>Talent,</hi> been faithfull to the <hi>Supream power,</hi> in all changes, in order to an advance of the <hi>publick Inte<g ref="char:EOLhyphen"/>reſt, peace,</hi> and <hi>ſafety,</hi> ever ſince the beginning of the late Wars) was the firſt (being thereto called) that in thoſe parts where he then lived, freely contributed to that <hi>Cauſe,</hi> which ſeemed proſecuted both for the <hi>King</hi> and <hi>Parliament;</hi> the firſt, who there adventured his life as a Commander; the firſt, who was there plundered of ſo conſiderable an eſtate; and one of the firſt, to whom the ſaid Parliament had made ſo fair a ſhew of performing their <hi>promiſes</hi> and <hi>Engagements</hi> to thoſe, who ſhould ſuffer in their <hi>ſervice:</hi> yet he is likely (if ever) to be one of the laſt, who ſhall be repaired: For, all their <hi>bloſſoms</hi> have not onely been hitherto unfruitfull, but three times more vexatious and deſtructive alſo, then the <hi>plunderings,</hi> and malice of the common <hi>Enemy,</hi> as will appear by what follows.</p>
+            <p>It being proved to the <hi>Parliament,</hi> by an <hi>Inventory</hi> of the Petitioners loſſes, atteſted by many wit<g ref="char:EOLhyphen"/>neſſes, that he was plundered in their ſervice to his dammage in above 2000. <hi>l.</hi> it was in <hi>Parliament</hi> ordered <hi>Febr.</hi> 9. 1642. (above 16. years now paſt) that he ſhould have 2000. <hi>l.</hi> toward his repair out of the Eſtates of <hi>John Denham</hi> Eſq; and other <hi>Delinquents;</hi> which <hi>Order,</hi> this <hi>Petitioner</hi> not being in a capacity to proſecute effectually, without neglect of his duty, (he being then in actual ſervice) no more was by vertue thereof, by him received then 204. <hi>l.</hi> 17. <hi>s.</hi> 4 <hi>d.</hi> or thereabout, above the charges in proſecution; as appeared by a <hi>Report</hi> made to the <hi>Parliament,</hi> Feb 18. 1646. by the <hi>Committee</hi> of Accounts for the Kingdom; before which time, there was due to the <hi>Petitioner</hi> in princi<g ref="char:EOLhyphen"/>pal money, beſides what was formerly received and reſpited upon <hi>account</hi> (and beſide 1795. <hi>l.</hi> 2. <hi>s.</hi> 8. <hi>d.</hi> the remainder of the ſaid 2000. <hi>l.</hi>) the ſumme of 1681. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> by <hi>Accompt</hi> (fully ſtated;) and, that ſumme was made forthwith payable to the <hi>Petitioner</hi> by ſeveral <hi>Warrants</hi> of the Lord Gen. <hi>Eſſex,</hi> and the <hi>Committee</hi> of <hi>Safety,</hi> about fifteen years now paſt; a great part whereof the <hi>Petitioner</hi> had bor<g ref="char:EOLhyphen"/>rowed to pay his <hi>Troup,</hi> and hath payed <hi>Intereſt</hi> for it to this day.</p>
+            <p>After many years conſumed, in tedious and chargeable ſolicitations concerning the <hi>premiſſes,</hi> the ſaid Petitioners <hi>demands</hi> were by Order of Parliament referred to the <hi>Committee of the Navy,</hi> October 20. 1647. who examining them in every particular, found 3438. <hi>l.</hi> 18 <hi>s.</hi> 4. <hi>d.</hi> to be then due to this <hi>Pe<g ref="char:EOLhyphen"/>titioner</hi> (beſide ſome demands reſpited) and ordered it ſhould be ſo reported to the <hi>Parliament</hi> by Col. <hi>Thompſon,</hi> and that they thought fit it ſhould be paid out of the <hi>Exciſe.</hi>
+            </p>
+            <pb facs="tcp:118418:3"/>
+            <p>That <hi>Report</hi> (to this <hi>Petitioners</hi> great dammage) was not made untill about ſix moneths after; by which delay, about half a <hi>Million</hi> (as the Petitioner is informed) was charged upon the ſaid <hi>Exciſe in Courſe,</hi> before any part of the <hi>Petitioners</hi> debt: The 22 of <hi>March</hi> 1647. the ſumme of 1681 1. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> part of the foreſaid 3438. <hi>l.</hi> 18 <hi>s.</hi> 4. <hi>d.</hi> was by <hi>Ordinance</hi> of <hi>Parl.</hi> charged upon <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Courſe.</hi> without mentioning Intereſt for any portion thereof; though all of it had been made immediately payable by <hi>warrants</hi> many years before: Though, likewiſe, they who had ſerved with the <hi>Petitioner</hi> at the ſame <hi>times,</hi> in the ſame <hi>places,</hi> under the ſame <hi>Commanders,</hi> had either payment in ready money, or <hi>Intereſt</hi> allowed untill they were paid: Yea, (which was a greater partiality) though 700. <hi>l.</hi> of that debt was ingaged for, and lent by the <hi>Petitioner</hi> as aforeſaid: But, this being ſignified to the <hi>Parliament,</hi> it was afterward ordered, <hi>December</hi> 25. 1648. that 300. <hi>l.</hi> more then was formerly grant<g ref="char:EOLhyphen"/>ed, ſhould be paid to the <hi>Petitioner</hi> out of the <hi>Exciſe,</hi> with <hi>Intereſt</hi> of 8. <hi>l. per Cent.</hi> every ſix moneths, both for the ſaid 300. <hi>l.</hi> and for the ſaid 700. <hi>l.</hi> part of the ſaid 1681. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> untill the ſaid 300. <hi>l.</hi> and 700. <hi>l.</hi> were paid.</p>
+            <p>The reſidue of the ſaid 3438. <hi>l.</hi> 18. <hi>s.</hi> 4. <hi>d.</hi> was made payable out of Diſcoveries at <hi>Haberdaſhers Hall,</hi> by an Order of the 15. of <hi>March</hi> 1647. but without effect; becauſe the <hi>Petitioner</hi> could finde no diſcovery, without putting himſelf to more coſt and trouble then it would be worth. The <hi>Se<g ref="char:EOLhyphen"/>curity</hi> likewiſe which was given to the <hi>Petitioner</hi> for the ſaid 300. <hi>l.</hi> and for the <hi>Intereſt</hi> thereof, to<g ref="char:EOLhyphen"/>gether with Intereſt for the ſaid 700. <hi>l.</hi> out of the <hi>Exciſe,</hi> proved of no force; becauſe the <hi>Commons,</hi> who granted an <hi>Order,</hi> as aforeſaid, for payment thereof, (having added thereto a deſire of the <hi>Lords</hi> concurrence therein) took away the <hi>Houſe of Lords,</hi> within ſo few dayes after, that their concurrence could not be gotten. And the <hi>Petitioner</hi> being then put into ſome hope, that pay<g ref="char:EOLhyphen"/>ment might have been in ſome part had out of <hi>Compoſitions</hi> made under value, the ſaid <hi>Commons</hi> or<g ref="char:EOLhyphen"/>dered again, the 26 of <hi>April</hi> 1649. that the ſaid 300. <hi>l.</hi> and Intereſt for the ſaid 700. <hi>l.</hi> ſhould be paid unto this <hi>Petitioner</hi> out of Diſcoveries at <hi>Haberdaſhers Hall,</hi> and out of <hi>Compoſitions</hi> as aforeſaid made under value at <hi>Goldſmiths Hall;</hi> by which <hi>Order</hi> this <hi>Petitioner</hi> cauſed 430. <hi>l.</hi> to be brought into that <hi>Treaſury;</hi> and about ſeven years after, when it had coſt him near as much, he procured payment of 361. <hi>l.</hi> 6. <hi>s.</hi> 8. <hi>d.</hi> thereof, by a <hi>Privy Seal</hi> out of the <hi>Exchequer.</hi>
+            </p>
+            <p>The ſaid <hi>Securities</hi> being ſo ineffectual, This <hi>Petitioner</hi> renewed his ſuite to the <hi>Parliament,</hi> which (by means of ſome not then his friends) referred the <hi>whole Cauſe</hi> once again, (as if no former refe<g ref="char:EOLhyphen"/>rences had been made) to a <hi>Select Committee</hi> of <hi>Parliament,</hi> authorized to report how this <hi>Petitioner</hi> ſhould be paid what they found to be due unto him.) And that Committee reviewing all Demands and Receipts from the beginning, found 3958. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> to be then due to the <hi>Petitioner,</hi> with the <hi>Intereſt,</hi> which would be due in <hi>March</hi> then next following, over and above what he had received, which they thought fit ſhould be thus paid, <hi>(viz)</hi> that the ſaid 1681. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> ſhould ſtand charged upon the <hi>Exciſe,</hi> with an allowance of <hi>Intereſt</hi> of 8. <hi>l. per Cent.</hi> to be paid every ſix moneths from the 22. of <hi>September</hi> then laſt paſt, untill the ſaid 1681. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> ſhould be fully paid. For the reminder of the ſaid 3958. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> (as alſo in recompence of the <hi>Petitioner</hi>'s long forbear<g ref="char:EOLhyphen"/>ance, and great expence in about ſeven years attendance) they thought fit, that the <hi>Mannour</hi> of <hi>Little-Hockſly,</hi> (alias) <hi>Horſly Hall</hi> in <hi>Eſſex,</hi> &amp; <hi>Wiſton Mills</hi> in <hi>Suffolk,</hi> with the Appurtenances, part of the eſtate of the foreſaid <hi>John Denham,</hi> ſhould be ſetled upon this <hi>Petitioner</hi> and his Heirs, the ſaid eſtate being valued in the <hi>Sequeſtrators</hi> books at 240. <hi>l. per annum</hi> This <hi>Report</hi> Mr. <hi>Dove</hi> was deſired to make to the <hi>Parliament:</hi> and this <hi>Petitioner</hi> is perſwaded, that if after ſo many <hi>References</hi> and ſtrict examina<g ref="char:EOLhyphen"/>tions in the like, or a leſſe conſiderable <hi>Cauſe,</hi> ſuch a <hi>Report</hi> had been brought in behalf of any <hi>Mem<g ref="char:EOLhyphen"/>ber</hi> of that <hi>Parliament,</hi> or of any one of his <hi>Relations,</hi> a ſettlement would forthwith have been made accordingly.</p>
+            <p>But, ſo ill was this <hi>Petitioner,</hi> at that time befriended (for what cauſe he knows not, except for de<g ref="char:EOLhyphen"/>claring thoſe truths which ſome were not pleaſed to hear of) nothing was done upon that <hi>Report,</hi> untill the ſecond of <hi>January</hi> 1650. and then it was Ordered that the ſaid 1681. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> ſhould ſtand charged upon the <hi>Exciſe</hi> as before, but without mentioning my <hi>Intereſt</hi> for the ſame, though probably intended by the <hi>Parliament</hi> for the juſt reaſons afore expreſſed; and in regard it was not for the honour thereof to recede from what they had formerly granted without cauſe. Neither was more then 150. <hi>l. per ann.</hi> ordered to be ſetled upon the <hi>Petitioner</hi> and his Heirs out of Mr. <hi>Denhams</hi> eſtate,
+<pb facs="tcp:118418:3"/>to ſatisfie the reſt of the ſaid debt: which allowance (all things conſidered) was after the rate of ma<g ref="char:EOLhyphen"/>king him pay above twenty years purchaſe in ready money, for ſuch Land as he might have bought for much ſeſſe then half that value. To make good in ſhew, this <hi>allowance,</hi> a <hi>Proviſo</hi> was added to the firſt <hi>Act</hi> for ſale of <hi>Delinquents Eſtates;</hi> And though neither of the foreſaid payments, were ac<g ref="char:EOLhyphen"/>cording to equity (as this <hi>Petitioner</hi> &amp; many other, conceived) nor amounted to half that, which their own <hi>Committee</hi> had judged reaſonable, and was granted by former <hi>Order of Parliament:</hi> This <hi>Petitio<g ref="char:EOLhyphen"/>ner</hi> thankfully accepted thereof, conſidering the great debts and neceſſities of the <hi>Commonwealth,</hi> and how difficultly <hi>Juſtice</hi> was obtained in thoſe times; hoping the like ſtrictneſſe would have been practiſed toward <hi>themſelves,</hi> and their <hi>Relations</hi> (it being about the time of paſſing their <hi>ſelf-denying Vote</hi>) which <hi>Courſe</hi> would have ſaved the <hi>Commonwealth,</hi> many <hi>Millions,</hi> as he believeth. But, the <hi>Petitioner</hi> was deceived in that hope; And the <hi>ſecurity</hi> which they then gave him for the ſaid 3958. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> at ſo low a rate, did not onely prove no ſecurity at all, but became an occaſion alſo of damnifying him, in more then twice that ſumme; Inſomuch, that, if he had remitted all his debts fifteen years ago, he had been probably at more quiet, and at leaſt 4000. <hi>l.</hi> better in his Eſtate at this day, and out of thoſe hazzards which he is in, of utterly conſuming the remainder of his Eſtate, and looſing his credit by depending upon <hi>Parliamentary ſecurities,</hi> as will appear by what follows.</p>
+            <p>For, the ſaid 1681. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> part of the ſaid 3958. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> hath been due as aforeſaid above fifteen years; which conſidered, with the dammages by expences in ſo long time ſoliciting for it; The Intereſts forborn during that time, with the hinderances which he hath had, and the advan<g ref="char:EOLhyphen"/>tages thereby loſt (beſide ſo much precious time at the later end of his life) the <hi>Petitioner</hi> ſhall looſe more then twice that debt, though he might receive the <hi>principal ſumme</hi> to morrow: and it being payable without Intereſt but in <hi>Courſe,</hi> which Courſe hath been ſtopped five years already, and may ſo continue <hi>ad Graecas Calendas,</hi> or till the 30th. of <hi>February,</hi> no man knows to what dammage it will amount. As for the reſidue of the ſaid 3958 <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> being 2278. <hi>l.</hi> the <hi>Petitioner</hi> is like<g ref="char:EOLhyphen"/>ly to have worſe payment: For no more is given to ſatisfie for it, but 150. <hi>l. per annum</hi> out of a <hi>Delin<g ref="char:EOLhyphen"/>quents Eſtate,</hi> which is a <hi>Title</hi> ſo ſlighted, that few, or none will lend a years value upon a mortgage of the whole; yet, the ſaid 2278. <hi>l.</hi> which the <hi>Petitioner</hi> acquitted for it, conſidered, with about ſixteen years forbearance, heretofore, and other expences and dammages occaſioned ſince the <hi>Petitioner</hi> bought it, will amount to above fourty years purchaſe in ready money; nay, his bargain is far worſe then ſo bad; and inſtead of Land, or Rent for his money, the <hi>Petitioner</hi> hath nothing but troubles and ſuites, to the conſuming of that Land and money, which he had before; and hath been damnified no leſſe then as much more in his Credit, and in hindring the preferment of his Children, when they ſhould, and might have been beſtowed in marriage.</p>
+            <p>For, in purſuance of an <hi>Act of Parliament,</hi> (whoſe <hi>Securities</hi> and <hi>Conſeſſions</hi> he thought to be the beſt tenure in the world) the <hi>Petitioner</hi> took a <hi>Conveyance</hi> of the 150. <hi>l. per annum</hi> out of the Man<g ref="char:EOLhyphen"/>nour of <hi>Little Horkſly</hi> aforeſaid, part of the ſaid Mr. <hi>Denhams</hi> Eſtate, above ſeven years now paſt; he therewith bought by the ſame <hi>Deed Inrolled</hi> the remainder of the ſaid Mannour for 1645. <hi>l.</hi> which he paid according to his <hi>Contract;</hi> his ſaid purchaſe was compleated according to every Rule in the Act for ſale of ſuch Eſtates; The premiſſes were warranted unto him by a <hi>Particular</hi> to be in the pre<g ref="char:EOLhyphen"/>ſent poſſeſſion of the <hi>Commonwealth;</hi> There was no <hi>Claim</hi> then allowed thereupon; the time limited for allowing of <hi>Claims,</hi> was elapſed above two moneths before he contracted, and his <hi>Purchaſe</hi> was compleated above four moneths, before any Claim upon the premiſſes was allowed; he was put into peaceable poſſeſſion, then ſetled his Family upon part thereof, and demiſed the reſt: yet, after all this, was ſo interrupted whileſt he held the ſame, that he never made profit thereof to the clear va<g ref="char:EOLhyphen"/>lue of a penny; and hath been now about five years ejected, both out of that which was allowed for his ſaid debt, and out of that remainder alſo which he bought, without any recompence for the one or the other; to the indangering of ruining his Family, in regard he hath ſpent by inavoydable ſuits and moleſtations 500. <hi>l.</hi> more then he made of the ſaid purchaſe whileſt he was in poſſeſſion; and can<g ref="char:EOLhyphen"/>not yet be freed from further ſuites, expences, and troubles thereby occaſioned, though he be outed of all; and inſtead of reſtitution, is jecred (even by ſome of thoſe, who have put upon him that hard bargain) with <hi>Caveat Emptor,</hi> and ſuch like ſcoffing Cautions; which leſſons he ſhould not
+<pb facs="tcp:118418:4"/>have needed, if ſatisfaction might have been at the <hi>Petitioners</hi> own Election, or if he had thought them in whom he conſided to have been either Beggers, or Cheaters, who care not what become of other men when they have ſerved their own ends upon them. But it was not in the <hi>Petitioners</hi> power to prevent this defect; nor is it now in the power of any under Heaven to relieve him, but a <hi>Parliament.</hi>
+            </p>
+            <p>For, an Act of <hi>Parliament</hi> (whereof the <hi>Petitioner</hi> could not preſage) was made long ſince the ſaid <hi>purchaſe,</hi> to allow of <hi>Claims</hi> formerly entred, without providing any <hi>ſaving</hi> of their Eſtates, who had purchaſed according to a former <hi>Act;</hi> and there being a <hi>Dormant Claim</hi> entred for a Leaſe of the pre<g ref="char:EOLhyphen"/>miſes pretended to be made by the ſaid Mr. <hi>Denham,</hi> to one <hi>Thomas Offly</hi> Eſq; (which Leaſe is proba<g ref="char:EOLhyphen"/>bly forged, to the defrauding of the <hi>Commonwealth</hi> of between three and 4000. <hi>l.</hi>) the <hi>Commiſſioners</hi> for allowing of <hi>Claims</hi> (having no Cognizance of the ſaid probable fraud) did allow ſatisfaction to be made to the ſaid <hi>Offly,</hi> out of the ſaid Mr. <hi>Denhams</hi> Eſtate; and thereupon the ſame <hi>Truſtees,</hi> who had formerly ſold the premiſſes to the <hi>Petitioner,</hi> for ſo over-valuable a conſideration as aforeſaid, (though there was no negative, or affirmative Clauſe in either of the ſaid <hi>Acts,</hi> to vacate their firſt ſale, or re-inveſt them with the premiſſes) did nevertheleſſe ſell them again to <hi>John Feilder</hi> Eſq; (then, and now a Member of <hi>Parliament</hi>) who had compounded for the ſaid <hi>Offlies</hi> pretended <hi>Intereſt,</hi> at a great under-value, if it be real. They likewiſe conveyed it unto him in <hi>Fee;</hi> and continued there<g ref="char:EOLhyphen"/>with unto him, or to his <hi>Aſſignes,</hi> the ſaid Leaſe to be kept on foot, whereby the ſaid Mr. <hi>Feilder</hi> doth knowingly defraud the State, both of the Tythes payable by the Freeholders and Cuſtomary Te<g ref="char:EOLhyphen"/>nants of the ſaid Mannour, and alſo of a Reverſional Eſtate in the ſaid Mannour; though the ſaid Leaſe be not fraudulent: For, the premiſſes were intayl'd, which diſabled him to demiſe the premiſſes for longer time then during his life: That <hi>tail</hi> is docked by Act of <hi>Parliament,</hi> for the be<g ref="char:EOLhyphen"/>nefit of the <hi>Commonwealth;</hi> and the Evidence which proves the ſaid Intereſt of the <hi>Commonwealth,</hi> is a Counterpart of the ſaid deed of Intail; which the ſaid Mr. <hi>Feilder</hi> having gotten into his hands, to make the eaſier compoſition with the ſaid <hi>Offly,</hi> once produced it to juſtifie a <hi>Claim</hi> againſt the <hi>Commonwealth,</hi> and now concealeth it, to deprive the <hi>Commonwealth</hi> of the ſaid Rever<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>By theſe, and the like proceedings, this <hi>Petitioner</hi> hath not onely been wholly diſpoſſeſſed of the premiſſes as aforeſaid, and ever ſince diſquieted with vexatious ſuites by the ſaid Mr. <hi>Feilder</hi> and his Agents, but the ſaid Mr. <hi>Feilder</hi> threatens him with other <hi>Actions,</hi> and ſtill continues one in the name of <hi>Thomas Tedeway</hi> commenced againſt this <hi>Petitioner,</hi> and for his further vexation, againſt this <hi>Peti<g ref="char:EOLhyphen"/>tioners</hi> ſon alſo, who hath no Intereſt in the premiſſes, but (being under age,) was onely in the <hi>Petitio<g ref="char:EOLhyphen"/>ners</hi> then dwelling houſe upon the premiſſes, when a Leaſe of Ejectment was there ſealed, and was upon that occaſion impriſoned in the Upper Bench Priſon, to the <hi>Petitioners,</hi> &amp; his ſons great coſt and trouble. Upon the ſame Action the ſaid Mr. <hi>Feilder,</hi> or his <hi>Leaſee,</hi> by help of an <hi>Ignorant Jury,</hi> (if not worſe) hath lately procured a <hi>Verdict</hi> for about 300. <hi>l.</hi> againſt the <hi>Petitioner</hi> and his ſaid ſon for the <hi>mean profits</hi> of the <hi>premiſſes</hi> for three quarters of a year, whereas the whole Mannour is worth <hi>no</hi> more by the year, and was never worth any thing to the <hi>Petitioner,</hi> or his ſon. That ſumme, or there<g ref="char:EOLhyphen"/>about, this <hi>Petitioner</hi> is in danger to have added to his former dammages, though proofs were offe<g ref="char:EOLhyphen"/>red to the ſaid <hi>Jury,</hi> that what the ſaid Mr. <hi>Feilder,</hi> or ſome for him hath received of that years profits for which he commenceth his ſuit, in money, and in what ought to be abated for Taxes, and an Annuity paid out of it to an Hoſpital by the Petitioner, amounts to almoſt as much as is given by the ſaid Verdict, and about as much more for the preceding year, the profits whereof were payable to the <hi>Petitioner.</hi>
+            </p>
+            <p>Theſe things added together, and conſidered, with what may probably follow before he ſhall have relief, do evidence that this <hi>Petitioner</hi> is damnified and indangered, at leaſt twice ſo much as in likelyhood he ſhould have been as aforeſaid, if he had wholly remitted the ſaid debts at the firſt: For, it hath, <hi>bona fide,</hi> indangered the ruine of his Eſtate and Family; expoſed him to extream wants and ſcorns, rendred his life weariſome, made his honeſty queſtionable, by diſabling him to perform his Ingagements; and nigh deſtroyed his Credit, which is more dear to him then life. Other <hi>Grievances</hi> very conſiderable he might juſtly complain of; but they, who were heretofore moſt obliged, and moſt able to relieve him, have been ſo deaf, or dead rather, to his greateſt ſufferings when he exhibited his
+<pb facs="tcp:118418:4"/>complaints, that he is weary of complaining, and will not mention ſmaller oppreſſions; moreover, he obſerveth publick wants, and other private mens neceſſities to be ſo much, that he cannot in con<g ref="char:EOLhyphen"/>ſcience expect a total redreſſe; and he ſhall acknowledge it to the honour of your Juſtice &amp; Clemen<g ref="char:EOLhyphen"/>cy, if at this time he may have but that competent Redreſſe of his Grievances, which may diſcharge his ingagements to others, for prevention of their wrong, without ſelling away from his Wife and Children that Eſtate which is yet left; and that he may not have cauſe to repent his confiding in a Parliaments <hi>conceſſions</hi> and ſecurities, which have hitherto onely increaſed his dammages and trou<g ref="char:EOLhyphen"/>bles, with diſgace to his moſt ſincere endeavours, by making him ſeem richer then he was; and there<g ref="char:EOLhyphen"/>by cauſing many to think him the leſſe honeſt, becauſe they ſaw he diſcharged not thoſe Ingagements, which his truſting to this Commonwealths ſecurities have incumbred him withall, to the dammage as well of other men, and of his deareſt relations, as of himſelf. To which end, if this prevails not, he intends in this cauſe never from henceforth to Petition any, but God onely, whatſoever he ſuffers: for he is confident it will be in vain, becauſe he ſhall then perceive that what he thinks to be right, or wrong, is nor ſo, nor ſo, in the judgement of other men.</p>
+            <p>In conſideration of the <hi>premiſſes</hi> (whoſe reality will appear in the <hi>main,</hi> by the Copies of ſuch War<g ref="char:EOLhyphen"/>rants, Orders, and other authentick proofs, and <hi>Parliamentary conceſſions,</hi> and <hi>ſecurities</hi> as this <hi>Petitioner</hi> will produce, if need be) the ſaid <hi>Petitioner</hi> humbly prays your Honours, that the ſaid 1681. <hi>l.</hi> 15. <hi>s.</hi> 8. <hi>d.</hi> (whereof about 300. <hi>l.</hi> is due to ſome of his Officers and Troupers, and to others of the Towns of <hi>Guildford,</hi> and <hi>Farnham</hi> in <hi>Surrey,</hi> for their quarters) may be forthwith paid unto him; or at leaſt the ſaid 300. <hi>l</hi> and 700. <hi>l.</hi> with Intereſt for the ſame, and the reſidue hereafter. Or, that ſome other proviſion may be made to relieve his preſent wants, and preſerve his credit. That, <hi>alſo,</hi> he may be reſtored to his ſaid purchaſe, with reaſonable repair of his damages unjuſtly ſuſtained. That the badges of the fraudulency of the ſaid Mr. <hi>Denhams</hi> pretended Leaſe of the premiſſes afore mentioned to Mr. <hi>Offly,</hi> (which this Petitioner is ready to offer,) may be taken into conſideration, in regard it may poſſibly recover between three or 4000. <hi>l.</hi> to the Commonwealth, or a conſiderable part of thoſe ſummes. That the ſaid Mr. <hi>Feilder</hi> may be ordered to produce the foreſaid Counter<g ref="char:EOLhyphen"/>part of a Deed of Intaile made of the Mannour of <hi>Little Horſly</hi> aforeſaid, and other Lands, by concealment whereof this <hi>Commonwealth</hi> is defrauded of that right, which it hath to a Reverſion of the ſaid Manour, and other Lands. And laſtly, it is prayed, that all Actions and proceedings at Law againſt the Petitioner &amp; his ſon, concerning the ſaid Mannor, may be ſtayed, as alſo all other Actions, whereby the <hi>Petitioners</hi> proſecution of this Cauſe may be obſtructed, untill it ſhall be heard, and determined in <hi>Parliament;</hi> with whoſe final Sen<g ref="char:EOLhyphen"/>tence as touching any part of the premiſſes, this <hi>Petitioner</hi> will reſt ſatisfied, and continue his prayers for your Honours.</p>
+            <closer>
+               <signed>G. W.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
